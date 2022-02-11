@@ -8,7 +8,7 @@ namespace Arrays
         {
             // An array can look like this, but it't not optimal. 
             // We have to declare how many elements we want to have in -
-            // our array and assign the values to the each index numbers.
+            // our array and assign the values to the each index numbers
 
             int[] numbers = new int[5];
             
